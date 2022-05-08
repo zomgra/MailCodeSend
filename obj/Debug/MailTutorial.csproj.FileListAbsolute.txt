@@ -1,0 +1,6 @@
+/Users/nikitaserduk/Projects/MailTutorial/bin/Debug/MailTutorial.exe
+/Users/nikitaserduk/Projects/MailTutorial/bin/Debug/MailTutorial.pdb
+/Users/nikitaserduk/Projects/MailTutorial/obj/Debug/MailTutorial.csproj.AssemblyReference.cache
+/Users/nikitaserduk/Projects/MailTutorial/obj/Debug/MailTutorial.csproj.CoreCompileInputs.cache
+/Users/nikitaserduk/Projects/MailTutorial/obj/Debug/MailTutorial.exe
+/Users/nikitaserduk/Projects/MailTutorial/obj/Debug/MailTutorial.pdb
